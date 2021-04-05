@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MVVMTodo</string>
+    <string name="menu_search_title">Search</string>
+    <string name="menu_sort_title">Sort</string>
+    <string name="subitem_sort_by_name">sort by name</string>
+    <string name="subitem_sort_by_date_created">sort by date created</string>
+    <string name="hide_completed">Hide completed</string>
+    <string name="delete_all_completed">Delete all completed</string>
 </resources>
